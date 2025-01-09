@@ -1,0 +1,121 @@
+{   
+    "api_key":  "EaP4YlMJHi60kqYFYkOPehgQpf1aT9z3xY3Ufz33",
+    "subway_lines": [
+      {
+        "id": "A",
+        "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-ace",
+        "resp": "A.json"
+      },
+      {
+        "id": "C",
+        "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-ace",
+        "resp": "C.json"
+      },
+      {
+        "id": "E",
+        "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-ace",
+        "resp": "E.json"
+      },
+      {
+        "id": "B",
+        "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-bdfm",
+        "resp": "B.json"
+      },
+      {
+        "id": "D",
+        "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-bdfm",
+        "resp": "D.json"
+      },
+      {
+        "id": "F",
+        "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-bdfm",
+        "resp": "F.json"
+      },
+      {
+        "id": "M",
+        "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-bdfm",
+        "resp": "M.json"
+      },
+      {
+        "id": "G",
+        "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-g",
+        "resp": "G.json"
+      },
+      {
+        "id": "J",
+        "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-jz",
+        "resp": "J.json"
+      },
+      {
+        "id": "Z",
+        "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-jz",
+        "resp": "Z.json"
+      },
+      {
+        "id": "N",
+        "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-nqrw",
+        "resp": "N.json"
+      },
+      {
+        "id": "Q",
+        "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-nqrw",
+        "resp": "Q.json"
+      },
+      {
+        "id": "R",
+        "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-nqrw",
+        "resp": "R.json"
+      },
+      {
+        "id": "W",
+        "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-nqrw",
+        "resp": "W.json"
+      },
+      {
+        "id": "L",
+        "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-l",
+        "resp": "L.json"
+      },
+      {
+        "id": "1",
+        "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs",
+        "resp": "1.json"
+      },
+      {
+        "id": "2",
+        "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs",
+        "resp": "2.json"
+      },
+      {
+        "id": "3",
+        "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs",
+        "resp": "3.json"
+      },
+      {
+        "id": "4",
+        "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs",
+        "resp": "4.json"
+      },
+      {
+        "id": "5",
+        "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs",
+        "resp": "5.json"
+      },
+      {
+        "id": "6",
+        "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs",
+        "resp": "6.json"
+      },
+      {
+        "id": "7",
+        "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs",
+        "resp": "7.json"
+      },
+      {
+        "id": "SIR",
+        "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-si",
+        "resp": "SIR.json"
+      }
+    ]
+  }
+  
